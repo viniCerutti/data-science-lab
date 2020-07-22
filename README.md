@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/viniCerutti/data-science-lab/master/logo-readme.png?token=AFB7LNJL5JX3G5HHK3QTUC27EDCL6"/>
+  <img src="./logo-readme.png"/>
 </p>
 Repositório no qual apresento meus projetos e desafios ao longo da minha trajetória nessa parte de análise de dados e predições. A maioria destes projetos são desevolvidos em R ou Python dependendo da complexidade de implementação.
 
