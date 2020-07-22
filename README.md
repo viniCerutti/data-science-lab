@@ -13,4 +13,4 @@ Sou um Jovem no qual gosta de resolver problemas e trabalhar em equipe, buscando
 
 ## Projetos
 * **Predição de Taxa de Desligamento para RH (People Analytics):**
-* **Implementação de uma Regressão Linear e Rede Neural a partir do zero:**
+* **Implementação de uma Regressão Linear (Univariada) e Logistica e Rede Neural a partir do zero:**
