@@ -12,5 +12,5 @@ Sou um Jovem no qual gosta de resolver problemas e trabalhar em equipe, buscando
 * [Lattes](http://lattes.cnpq.br/8376795405312044)
 
 ## Projetos
-* **Predição de Taxa de Desligamento para Recursos Humanos:**
+* **Predição de Taxa de Desligamento para RH (People Analytics):**
 * **Implementação de uma Regressão Linear e Rede Neural a partir do zero:**
