@@ -14,3 +14,4 @@ Sou um Jovem no qual gosta de resolver problemas e trabalhar em equipe, buscando
 ## Projetos
 * **Predição de Taxa de Desligamento para RH (People Analytics):**
 * **Implementação de uma Regressão Linear (Univariada) e Logistica e Rede Neural a partir do zero:**
+* **Deploy de Modelo de regressão logistica na web para predizer o destastre do titanic Kaggle:** [repositório Github](https://github.com/viniCerutti/Titanic-Web-ML)
