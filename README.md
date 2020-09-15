@@ -12,6 +12,6 @@ Sou um Jovem no qual gosta de resolver problemas e trabalhar em equipe, buscando
 * [Lattes](http://lattes.cnpq.br/8376795405312044)
 
 ## Projetos
-* **Predição de Taxa de Desligamento para RH (People Analytics):**
+* **Predição de Taxa de Desligamento para RH (People Analytics):** [repositório Github](https://github.com/viniCerutti/employee-turnover-analysis)
 * **Implementação de uma Regressão Linear (Univariada) e Logistica e Rede Neural a partir do zero:**
 * **Deploy de Modelo de regressão logistica na web para predizer o destastre do titanic Kaggle:** [repositório Github](https://github.com/viniCerutti/Titanic-Web-ML)
