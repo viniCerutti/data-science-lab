@@ -16,5 +16,6 @@ Possui interesse nas áreas de: aprendizado de máquina, algoritmos, big data e 
 * [Lattes](http://lattes.cnpq.br/8376795405312044)
 
 ## Projetos
+* **Predição de Risco de Crédito:** [repositório Github](https://github.com/viniCerutti/credit-risk-analysis)
 * **Predição da taxa de desligamento para RH (People Analytics):** [repositório Github](https://github.com/viniCerutti/employee-turnover-analysis)
 * **Deploy de um modelo de regressão logistica na web para predizer o destastre do titanic do Kaggle:** [repositório Github](https://github.com/viniCerutti/Titanic-Web-ML)
