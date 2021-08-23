@@ -6,7 +6,7 @@ Repositório no qual apresento meus projetos e desafios ao longo da minha trajet
 ## Sobre:
 Um Jovem curioso no qual gosta de resolver problemas e trabalhar em equipe, buscando sempre as melhores soluções. Possui experiência com metodologia científica, desenvolvimento de software e análises de dados no RH (People Analytics).
 
-Atualmente trabalha nas lojas renner S.A na área de people analytics contribuindo no RH com tomada de decisões através de dados, utilizando metodologias científicas, análises exploratórias, visualização e mineração de dados através das ferramentas como Python, R e microstrategy.
+Atualmente trabalha nas lojas renner S.A na área de people analytics contribuindo no RH com tomada de decisões através de dados. Utilizando metodologias científicas, análises exploratórias, visualização e mineração de dados através das ferramentas como Python, R e microstrategy.
 
 Possui interesse nas áreas de: aprendizado de máquina, algoritmos, big data e ciência de Dados.
 
